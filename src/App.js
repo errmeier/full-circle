@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { Box, Button } from '@material-ui/core'
 import EnhancedTable from './inventoryTable';
-
+// Hello World.
 function App() {
   return ( 
     <div className="App">
